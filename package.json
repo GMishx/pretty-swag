@@ -33,7 +33,7 @@
     "highlight.js": "^9.10.0",
     "json-schema-ref-parser": "^3.1.2",
     "livedoc": "^0.1.100",
-    "marked": "^0.5.2",
+    "marked": "^0.6.2",
     "pluralize": "^3.1.0"
   }
 }
